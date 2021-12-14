@@ -111,7 +111,7 @@ h2 span {
     }
 
     .img-sec {
-        background:linear-gradient(hsla(277, 100%, 25%, .514) 100%, rgba(255, 255, 255, 0)), url(/images/image-header-desktop.jpg);
+        background:linear-gradient(hsla(277, 100%, 25%, .514) 100%, rgba(255, 255, 255, 0)), url(./images/image-header-desktop.jpg);
         background-size: cover;
         height: 100%;
         max-width: 100%;
